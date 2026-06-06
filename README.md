@@ -43,7 +43,7 @@ python weather_app.py  →  opens http://127.0.0.1:8766 in your browser
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/adityatandale/weather-app.git
 cd weather-app
 ```
 
